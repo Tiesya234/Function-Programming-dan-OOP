@@ -17,5 +17,6 @@ Object Oriented Programming atau OOP adalah suatu paradigma pemrograman yang ber
 2. Inheritance, merupakan konsep pewarisan sifat yang memungkinkan pembuatan kelas baru dengan menggunakan sifat dari kelas yang sudah ada. Sehingga pembuatan hierarki kelas dan membuat kode lebih mudah dipelihara dan diatur.
 3. Polymorphism, merupakan konsep ini memungkinkan objek dengan jenis yang berbeda untuk menanggapi metode dengan cara yang sama. Polymorphism dapat dicapai melalui penggunaan konsep seperti overloading, overriding, dan interface.
 4. Abstraction, merupakan proses menyembunyikan detail yang tidak perlu dari suatu objek untuk mempermudah pemahaman dan penggunaan objek tersebut.
-OOP digunakan untuk membuat program yang kompleks dan membutuhkan pemodelan yang lebih realistis.
+OOP digunakan untuk membuat program yang kompleks dan membutuhkan pemodelan yang lebih realistis.  
+
 Contoh kode program untuk Object Oriented Programming: https://github.com/Tiesya234/Function-Programming-dan-OOP/blob/d7698f72cc29383b429e6741963bd7563be3bef9/FP%20and%20OOP.py 
